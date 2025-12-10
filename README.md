@@ -26,33 +26,36 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Skills & Technologies
 
 ### 🎨 Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,flutter&theme=light" />
 </p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite,java,python,fastapi,firebase" />
-</p>
-
-### 🛠 Tools, Platforms & Others
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" />
-</p>
-
-- 🤖 AI / ML  
-- 📡 IoT (ESP32, sensors, automation)  
-- 🔗 n8n – workflow automation  
-- ☁️ Cloud basics  
-- 🤗 Hugging Face models & APIs  
 
 ---
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite,java,python,fastapi,firebase&theme=light" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma&theme=light" />
+</p>
+
+---
+
+### 🤖 Additional Skills
+- 🔥 **AI / Machine Learning**
+- 📡 **IoT Development** (ESP32 · Sensors · Automation)
+- 🔗 **n8n Workflow Automation**
+- ☁️ **Cloud Basics**
+- 🤗 **Hugging Face Models, APIs**
+
 
 ## 💼 Experience
 
