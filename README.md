@@ -21,8 +21,8 @@
 
 - 📍 **Location:** India  
 - 🧪 **Projects:** `8+`  
-- 🤝 **Clients:** `2+`  
-- 🎯 **Focus Areas:** AI Agents · IoT Apps · Automation · Full Stack
+ 
+- 🎯 **Focus Areas:** AI Agents · IoT Application · Automation · Full Stack
 
 ---
 
