@@ -51,7 +51,6 @@
 
 ### 🤖 Additional Skills
 - 🔥 **AI / Machine Learning**
-- 📡 **IoT Development** (ESP32 · Sensors · Automation)
 - 🔗 **n8n Workflow Automation**
 - ☁️ **Cloud Basics**
 - 🤗 **Hugging Face Models, APIs**
