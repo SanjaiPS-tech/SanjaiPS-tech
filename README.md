@@ -6,11 +6,11 @@
 ---
 
 ## 🌐 About Me
-
-- 🎓 3rd Year **Diploma Student** at **Kongu Polytechnic College, India**
+- 🏫 **BE - Computer Engneering** at **Sri Eshwar College of Engineering, Coimbatore**
+- 🎓 **Diploma Student** at **Kongu Polytechnic College, Perundurai**
 - 💡 Passionate about **AI automation, IoT systems, and full-stack development**
 - 🧪 Love experimenting with **Chromium extensions, cloud tools, and workflows**
-- 🛠 1+ year of experience learning & building **real-world projects**
+- 🛠 learning & building **real-world projects**
 - 🤝 Open to **collaborations, internships, and open-source contributions**
 
 > _“I build clean and modern app experiences.”_
@@ -20,7 +20,7 @@
 ## 📊 At a Glance
 
 - 📍 **Location:** India  
-- 🧪 **Projects:** `8+`  
+- 🧪 **Projects:** `5+`  
  
 - 🎯 **Focus Areas:** AI Agents · IoT Application · Automation · Full Stack
 
